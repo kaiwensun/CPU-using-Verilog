@@ -1,5 +1,5 @@
 # CPUs in Verilog
-A single cycle CPU and a multi cycle CPU implemented in an undergraduate class when I was a sophomore student.
+A single cycle CPU and a multi cycle CPU implemented in an undergraduate class when I was a sophomore student (2012).
 Some digital circuits labs are also included.
 
 ### Single Cycle CPU Design
